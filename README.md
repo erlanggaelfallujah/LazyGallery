@@ -1,4 +1,4 @@
 LazyGallery
 ===========
 
-Optimize android load image gallery with gridview &amp; thumbnails.
+Android image gallery loader with gridview &amp; thumbnails using multithreading process.
